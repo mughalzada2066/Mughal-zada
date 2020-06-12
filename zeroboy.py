@@ -49,17 +49,17 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
-|__(-----\  •◈•------BLACK-TIGER--------•◈•
+|__(~)    •||•THE - -zada-•◈•
+|__\~~) •||•MUGHAL - ZADA---------------•◈•
+|__(-----\  •◈•------MERE PAS TUM HO---------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mAuthor MUGHAL
+\033[1;96mInstagram /033:ZADA
+\033[1;96mFacebook  \033[1;93m: \033[1; MUGHALZADA4072
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Thezada/zero
 \033[1;91m======================================="""
 
 def tik():
@@ -80,15 +80,16 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Aahilrana4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92MughalZada
+
+\033[1;96mInstagram \033[1;93m: \033[1;92mFlowMughal
+\033[1;96mFacebook  \033[1;93m: \033[1;92m MughalZada4072
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/TheMughal/zero
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "mughal"
+CorrectPassword = "zada"
 
 loop = 'true'
 while (loop == 'true'):
@@ -228,7 +229,7 @@ def super():
 	print 42*"\033[1;96m="
 	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m Crack From Friend List"
 	print "\x1b[1;96m[\x1b[1;92m2\x1b[1;96m]\x1b[1;93m Crack From Any Public ID"
-	print "\x1b[1;96m[\x1b[1;92m3\x1b[1;96m]\x1b[1;93m Crack From File"
+	print "\x1b[1;96m[\x1b[1;92m3\x1b[1;96m]\x1b[1;93m Inviled form Any public"
 	print "\x1b[1;96m[\x1b[1;91m0\x1b[1;96m]\x1b[1;91m Back"
 	pilih_super()
 
